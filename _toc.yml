@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Chapter 1 - Introduction
+    chapters:
+    - file: ch1/notebooks
+    - file: ch1/solutions
